@@ -35,7 +35,7 @@ menu()
 
 
 
-#Conversor de Dólar para Real<
+#Conversor de Dólar para Real
 
 #Este projeto é um simples conversor de moeda que transforma valores em dólar (USD) para real brasileiro (BRL).
 
